@@ -10,5 +10,6 @@
 网易(参考书目选用的接口)
 新浪(提供盘口，分笔等数据源)
 东方财富(可以通过 efinance 库直接调用)
+cnifo for annual report analysis
 
 创建本地 MySQL 数据库连接，以便长期存放来自 Internet 的数据
